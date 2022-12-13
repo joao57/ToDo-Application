@@ -2,10 +2,10 @@
 
 
 Status:
-    maintained, and is currently in development
+    maintained, and is currently in development.
 
 Version:
-    v 0.1.0
+    v 0.1.1
 
 Node Version:
-    14.17.4 and above
+    14.17.4 and above.
