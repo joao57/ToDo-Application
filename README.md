@@ -5,7 +5,7 @@ Status:
     maintained, and is currently in development.
 
 Version:
-    v 0.1.1
+    v 1.1
 
 Node Version:
     14.17.4 and above.
